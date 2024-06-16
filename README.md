@@ -6,8 +6,7 @@ I have experiences in developing mobile apps, fullstack websites including backe
 You will find my past and currently on going projects here on my Github.
 
 ## Languages and Tools
-<img src="./assets/postgresql.png" width=40>
-<img src="./assets/mysql.jpg" width=40>
+<img src="./assets/postgresql.png" width=40> <img src="./assets/mysql.jpg" width=40>
 <img src="./assets/python.png" width=40>
 <img src="./assets/java.svg" width=40>
 <img src="./assets/javascript.png" width=40>
