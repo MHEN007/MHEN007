@@ -19,6 +19,8 @@ You will find my past and currently on going projects here on my Github.
 And many more ...
 <div align="center">
 
+![MHEN007's Stats](https://github-readme-stats.vercel.app/api?username=MHEN007&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 <h3>Thank you for Visiting</h3>
 
 <i> 🌠 Ad Astra Per Aspera - To the stars through hardships  🌠</i>
