@@ -1,5 +1,5 @@
 ## Greetings 👋. Welcome to my Github Profile
-Hi, my name is Matthew. I am a informatics student with interests in database technology, data management, data science, machine learning, and most importantly, software engineering.
+Hi, my name is Matthew. I am a CS graduate with interests in database technology, data management, data science, machine learning, and most importantly, software engineering.
 
 I have experiences in developing mobile apps, fullstack websites including backend services, machine learning models including NLP Models, CNN, and their frameworks such as PyTorch, and database design.
 
